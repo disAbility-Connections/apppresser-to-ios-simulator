@@ -18,6 +18,7 @@ The files
 - `config.xml`
 - `icon.png`
 - `splash.png`
+- `app-data.json`
 
 Should all go to the root. Everything else goes under `./www`
 
