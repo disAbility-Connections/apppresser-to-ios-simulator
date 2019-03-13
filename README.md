@@ -30,4 +30,4 @@ Double check the Plugin entry for `cordova-sqlite-evcore-extbuild-free` to ensur
 
 Run `cordova build ios --buildFlag="-UseModernBuildSystem=0"` to build the Application. It should appear under `./platforms/ios/build/emulator/` as a `.app` file.
 
-Run the iOS Simulator and open your desired Hardware Type (Likely iPhone 6s for 5.5" and iPad Pro (2nd Gen) for 12.9") and drag-and-drop the `.app` file into the window after it has loaded to install the application.
+Run the iOS Simulator and open your desired Hardware Type (Likely iPhone 6s Plus for 5.5" and iPad Pro (2nd Gen) for 12.9") and drag-and-drop the `.app` file into the window after it has loaded to install the application.
